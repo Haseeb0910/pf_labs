@@ -7,22 +7,6 @@ This repository serves as a learning log tracking my progress through fundamenta
 📂 Repository Structure
 The repository is organized chronologically with labs numbered sequentially:
 
-text
-pf_labs/
-├── lab2/        # First lab - Basic programming concepts
-├── lab3/        # Second lab - Continued fundamentals 
-├── lab4/        # Third lab - Further programming concepts 
-├── lab6/        # Fourth lab
-├── lab7/        # Fifth lab 
-├── lab8/        # Sixth lab 
-├── lab9/        # Seventh lab - Pattern printing & array operations 
-├── lab10/       # Eighth lab - Array problems 
-├── lab11/       # Matrix problems
-├── lab13/       # Tenth lab 
-├── lab14/       # Pointers basics 
-├── lab14_B/     # Additional pointers practice 
-├── lab15/       # Struct practice
-└── lab16/       # Final lab - Struct and pointers combined
 📈 Learning Progression
 Phase 1: Foundations (Labs 2-7)
 Basic programming concepts and syntax
